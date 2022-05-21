@@ -12,8 +12,10 @@ Hostel que se encuentra en el centro de Granada y que está orientado sobre toda
 
 
 Miembros
- * Manuel Contreras Orge 
- * Luis Ortega Palacios
+
+👤 Manuel Contreras Orge  :octocat:
+
+👤 Luis Ortega Palacios :octocat:
 
 La práctica se puede consultar en https://github.com/manuelcoor66/DIU-Practicas.
 
@@ -35,204 +37,182 @@ A la hora de comparar nuestro hostel hemos decidido usar The Hat Madrid y The Li
 
 El resultado de la comparación entre estos 3 hostel se ve en la siguiente tabla.
 
-<img src="https://github.com/manuelcoor66/DIU-Practicas/blob/main/P1/Competitor%20Analysis.png?raw=true">
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Competitor%20Analysis.png?raw=true">
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+### Persona 1 (Matías)
 
-La primera persona seleccionada ha sido Dolores, una mujer jubilada con poca experiencia en el tema de las tecnologías y que no conoce a ninguna persona en su entorno cercano que pueda ayudarla. Sin embargo, es una persona capaz, por lo que decide comprarse un teléfono móvil e investigar por su cuenta para realizar una visita a la ciudad.
+Hemos escogido esta persona porque encaja en la idea general de quien podría ser un
+visitante al uso de un hostel. Alguien sociable, que le va la marcha y que tiene un incentivo para venir aquí más allá de pasarlo bien, y al mismo tiempo confía más en las
+recomendaciones online que en la publicidad tradicional por lo que puede ser un buen
+sujeto para el Journey Map.
 
-![Persona1](img/Persona1.png)
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Journey%20Map%201.jpeg?raw=true">
 
-La segunda persona seleccionada ha sido Alejandro, un joven con dificultades motrices y visuales que vive en un pueblo y ha pensado en independizarse, por lo que le gustaría conocer qué sitios puede visitar para decidirse finalmente por la capital o buscar otra alternativa.
+### Persona 2 (María)
 
-![Persona2](img/Persona2.png)
+La elección de esta persona como usuaria de un hostel es que es una persona con un
+carácter que se encuentra entre extrovertida e introvertida, pero que le gustaría mejorar ser un poco más extrovertida, por lo que ambientes como los de sitios así le ayudan mucho a la hora de poder conseguirlo. Además, al ser una persona bastante práctica, es la persona perfecta para elegir un hostel dentro de las distintas posibilidades existentes para ella, ya que es el que tiene las mejores características para lo que ella se puede permitir.
+
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Persona%20Ficticia%202.jpeg?raw=true">
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-La primera experiencia se basa en la búsqueda por parte de Dolores de toda la información posible para planificar su viaje a Madrid en la próxima semana. He seleccionado esta experiencia ya que, a pesar de que puede parecer común, no se le presta demasiada atención a la interacción de personas sin experiencia que no disponen de ningún tipo de ayuda externa a la hora de manejar las aplicaciones de su dispositivo móvil.
+### Persona 1 (Matías)
 
-![Journey1](img/Journey1.png)
+Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría,
+es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas
+reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo
+una persona sociable le preocupa caerle bien a la gente.
 
-La segunda experiencia se basa en la investigación de Alejandro para conocer más sitios e información de Madrid con el objetivo de decidir si finalmente es un sitio apto para vivir y trabajar. He seleccionado esta experiencia ya que todavía existen numerosas aplicaciones que no consideran la existencia de personas que necesitan acceder al contenido mediante métodos alternativos a los tradicionales.
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Persona%20Ficticia%201.jpeg?raw=true">
 
-![Journey2](img/Journey2.png)
+### Persona 2 (María)
+
+Cogiendo como base el ejemplo lo hemos adaptado a lo que nuestra persona ficticia haría, es por ello por lo que, por ejemplo, el hecho de que no se puedan poner ni hayan muchas reviews en la página principal del hostel es visto como algo negativo, o el porque, siendo una persona sociable le preocupa caerle bien a la gente.
+
+<img src="https://github.com/manuelcoor66/DIU/blob/master/P1/Journey%20Map%202.png?raw=true">
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>> Para acceder al documento con la Revisión de Usabilidad de la aplicación, [pulse aquí](https://github.com/jesusts99/DIU21/blob/master/P1/UsabilityReview.pdf)
+Este diagrama se observa en este [documento][enlace] adjunto.
 
->>> Valoración final (numérica): 63 (Moderate)
+[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P1/Usability_Review.pdf
 
-Sobre esta valoración, comentar que existen numerosos aspectos bastante mejorables, sobre todo en relación al sistema de búsquedas, navegabilidad y ayudas propuestas. Sin embargo, la aplicación presenta una interfaz bastante sencilla e intuitiva y la información ofrecida resulta de utilidad.
-
+A pesar de que la página no es perfecta, se hace un muy buen trabajo con lo que tiene,
+pudiendo mejorarse lo cargado que está la página principal, ya que la encontramos
+demasiada cargada, pudiendo accederse sólo a cierta parte de la información mediante el
+menú principal, mientras que la mayoría de información se encuentra en la página principal,
+lo que puede llegar a confundir un poco, por lo que se recomienda dividir la información en
+distintas páginas en las que solo se encuentra información relacionada con esta parte. La
+claridad visual es excelente, ya que se destacan las partes más importantes de la página
+con un color llamativo y/o una letra de mayor tamaño. Sin embargo, vemos pobre la parte
+de la ayuda al usuario, ya que existe una sección de FAQ que es muy fácil que se pueda
+pasar por alto por parte del usuario.
+Por último, al analizar esta página web, llegamos a la conclusión de que se ha hecho un
+buen trabajo al realizarla, pero que existen algunas partes mejorables que harían que esta
+fuera excelente.
 
 ## Paso 2. UX Design  
 
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+En este apartado hemosrealizado las 3 opciones disponibles, (malla receptora, mapa de empatía y POV), aunque solo es necesario observar una de las 3 opciones.
 
-En este caso, se ha decidido utilizar una malla receptora de información o feedback capture grid a la hora de realizar la propuesta de diseño, sirviendo como método de análisis del estudio realizado en la práctica anterior. De este modo, y aunque la aplicación a desarrollar esté orientada al turismo en la provincia de Granada, las ideas y defectos de la aplicación revisada en la práctica 1 son totalmente extrapolables a la actual. Así, teniendo en cuenta la experiencia de los usuarios ficticios, análisis competitivo y revisión de usabilidad de la aplicación Guía Bienvenidos a Madrid, se han obtenido las siguientes conclusiones:
+### Malla receptora de información
+#### Interesante/relevante:
+-Se puede contactar fácilmente a partir de Whatsapp.
 
+-La página es fácilmente navegable.
 
- Interesante | Críticas     
-| ------------- | -------
-El menú principal es sencillo y está bien organizado en categorías importantes. | Las opciones de búsqueda son muy limitadas y poco intuitivas.
-La aplicación es compatible con TalkBack. | La aplicación solamente está disponible en español.
-La información de la aplicación resulta clara e intuitiva, evitando contenido tedioso que dificulte la experiencia de usuario. | Existe una sección en el menú principal dónde se agrupan características demasiados genéricas y con poca relación.
-Cada actividad o lugar dispone de un mapa con indicaciones claras sobre cómo llegar al mismo. | Tiempo excesivo a la hora de descargar los mapas.
+-Se puede acceder a reserva directamente.
 
-  Preguntas | Nuevas ideas
-| ------------- | -------
-¿Qué gastronomía ofrecen los restaurantes mostrados en la aplicación? | Disponer de un chat para poder compartir opiniones con otros usuarios.
-¿Qué características tienen las instalaciones que muestra la aplicación? ¿Disponen de medidas para personas con limitaciones físicas, visuales o auditivas? | Permitir que la aplicación esté disponible en varios idiomas para turistas que no entiendan el castellano.
-¿Se puede modificar el tamaño de letra? | Incluir un sistema de valoración para poder identificar rápidamente los lugares más atractivos.
-¿Hay alguna forma de acceder a rutas ya creadas que incluyan un grupo de destinos relacionados? | Disponer de una sección de de información útil clara y organizada.
+-Te explica claramente todas las actividades que se ofertan.
 
-  
-Una vez analizados todos estos aspectos, se propone realizar una aplicación que incorpore las ideas comentadas previamente y solucione los aspectos a mejorar del caso revisado. Esta aplicación se centrará en el turismo en Galera, un pequeño pueblo de la provincia de Granada. Sin embargo, en este caso no se tratará simplemente de una aplicación turística, sino que estará orientada al colectivo de personas jubiladas británicas que quieren visitar el pueblo y que están pensando en mudarse allí. 
+-Se observan las partes más importantes de manera clara.
 
-De este modo, además de la típica información relacionada con monumentos o gastronomía, se incorporarán recursos acerca de las pedanías, actividades y eventos tradicionales del pueblo para que dicho colectivo se integre más en la cultura local. Además, se incorporarán una serie de medidas muy importantes: se permitirá la reserva de actividades desde la propia aplicación, se incluirá un chat para comunicarse con otros usuarios y se contará con un sistema de valoración para saber cuáles son los lugares más llamativos para los turistas.
+#### Críticas Constructivas:
+-No hay ofertas que podrían hacer el hostel más accesible.
+
+-Las reviews del hostel solo las pueden poner los dueños del hostel lo cual hace que alguien pueda sospechar que han sido escogidas a dedo para dar buena imagen.
+
+#### Preguntas a partir de la experiencia:
+-¿Dónde están las ofertas?
+
+-¿Por qué hay información sobre el hostel fuera de la zona principal?
+
+#### Nuevas ideas:
+-Poner los lugares de fiesta cercanos.
+
+-La página principal está cargada, lo podrían dividir en distintas pestañas.
+
+-Poner redes sociales.
+
+### Mapa de empatía
+
+#### Persona 1 (Matías)
+
+<img src="P2/Mapa de Empatía 1.png">
+
+#### Persona 1 (María)
+
+<img src="P2/Mapa de Empatía 2.png">
+
+### POV
+
+<img src="P2/Point Of View.png">
+
+El USUARIO
+
+NECESITA
+
+-Reservar en el hostel
+
+-Información de los lugares cercanos al hostel
+
+-Cancelar la reserva
+
+PORQUE
+
+-Quiere pasar un fin de semana en Granada
+
+-Le facilita el trabajo para organizar su viaje
+
+-Puede que los planes fallen
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-![ScopeCanvas](img/ScopeCanvas_WelcomeToGalera.png)
+Nuestra propuesta para mejorar el servicio ofrecido por el hostel Carlota Braun es añadirle
+un servicio de karaoke por las noches, después de que acaben las actuaciones, que son muy comunes a la hora de cenar. Este servicio está ofrecido a aquellas personas que se encuentran en el bar y que se lo quieran pasar bien de una manera diferente a lo común en sitios como estos.
 
-![Método UX](img/Sitemap.png) 2.c Tasks analysis 
+<img src="P2/Propuesta de valor.png">
+
+
+![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-A continuación, se analizarán las principales tareas de la aplicación por medio de User/Task flows. Se ha decidido usar esta técnica debido a que, al ser una aplicación orientada a un grupo de usuarios concreto, una matriz de tareas/usuarios no reflejaría una información tan completa ya que los perfiles de usuario no son tan variados. Además, en este caso existen numerosas tareas muy relacionadas entre sí, por lo que usar este tipo de diagramas pueden proporcionar una visión más general sobre dichas dependencias.
 
-A continuación se enumeran las principales tareas de la aplicación:
+<img src="P2/Análisis de tareas.png">
 
-1. Consultar información de utilidad (sanidad,  consejos, normas de comportamiento, etc).
-2. Consultar los principales miradores.
-3. Consultar los principales paisajes naturales.
-4. Consultar información sobre las pedanías.
-5. Consultar los principales monumentos.
-6. Consultar restaurantes o comidas típicas.
-7. Consultar rutas predeterminadas.
-8. Consultar lugares históricos.
-9. Consultar ajustes (tamaño de letra o idioma).
-10. Modificar ajustes (tamaño de letra o idioma).
-11. Ver información del item turístico.
-12. Ver contacto del item turístico.
-13. Ver consideraciones del item turístico.
-14. Obtener localización del item turístico.
-15. Buscar rutas a pie.
-16. Buscar rutas en bicicleta.
-17. Buscar rutas en coche.
-18. Abrir chat del item turístico.
-19. Enviar un mensaje en un chat del item turístico.
-20. Valorar item turístico.
-21. Realizar una reserva en un item turístico.
-22. Crear rutas personalizadas.
-23. Consultar rutas personalizadas.
-
-A partir de estar tareas, se han realizado una serie de User/Task flows que muestran los pasos a seguir para completar las tareas (Task flow) y las distintos caminos que puede tomar el usuario para alcanzarlas (User flow). Muchas de las tareas están relacionadas, por lo que para alcanzarlas se requiere la realización previa de otras. Por tanto, se ha reducido el número de diagramas a ocho, partiendo en cada uno de ellos de una tarea principal y mostrando aquellas que dependen de la misma.
-
-**1. Consultar información de utilidad (sanidad, consejos, normas de comportamiento, etc).**
-
-![UserTaskFlow](img/diagrama1.png)
+Hemos escogido la matriz de tareas/usuarios por delante del user/task flow debido a que
+esta primera es una opción mucho más fácil de observar e intuitiva que la otra, ya que con
+un solo vistazo se puede ver claramente la información más importante que se encuentra en
+esta opción, mientras que la otra es mucho más compleja y difícil de entender.
 
 
-**10. Modificar ajustes (tamaño de letra o idioma).**
 
-Indirectamente, se refleja tarea 9.
-
-![UserTaskFlow](img/diagrama2.png)
-
-
-**11. Ver información de item turístico.**
-
-Indirectamente, se reflejan tareas 2, 3, 4, 5, 6, 7, 8.
-
-![UserTaskFlow](img/diagrama3.png)
-
-
-**20. Valorar item turístico.**
-
-Indirectamente, se reflejan las tareas 12, 13, 14, 18.
-
-![UserTaskFlow](img/diagrama4.png)
-
-
-**21. Realizar una reversa en un item turístico.**
-
-![UserTaskFlow](img/diagrama5.png)
-
-
-**19. Enviar un mensaje en un chat del item turístico.**
-
-![UserTaskFlow](img/diagrama6.png)
-
-
-**15/16/17. Buscar rutas para llegar a un item turístico.**
-
-![UserTaskFlow](img/diagrama7.png)
-
-
-**22/23. Crear y consultar rutas personalizadas.**
-
-![UserTaskFlow](img/diagrama8.png)
-
-
-![Método UX](img/labelling.png) 2.d IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-En esta sección se incluye el mapa del sitio, que muestra las distintas vistas de la aplicación y su navegabilidad, y el labelling, que muestra los distintos elementos gráficos de la aplicación junto con su icono asociado y una breve descripción.
+#### Mapa de sitio
 
-**Sitemap**
+<img src="P2/Site map.png">
 
-![Sitemap](img/Sitemap_WelcomeToGalera.png)
+Comida y ocio sucede en un mismo restaurante con un escenario pero los eventos la página los tiene separados en una pestaña aparte, no lo vemos apropiado y creemos que sería más coherente juntarlo.
 
-**Labelling**
+#### Etiquetado
 
-![Labelling](img/Labelling_WelcomeToGalera.jpg)
+<img src="P2/Etiquetado.png">
 
 
-![Método UX](img/Wireframes.png) 2.e Wireframes
+
+![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-A continuación, se incluyen una serie de bocetos Lo-Fi de las distintas pantallas de la interfaz. 
+<img src="P2/Boceto.jpeg">
 
-Home             | Useful Information             | Settings
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto1.png)  |  ![Wireframes](img/boceto2.png) | ![Wireframes](img/boceto3.png) 
-
-Tourist Attractions             | Search             | Lookouts
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto4.png)  |  ![Wireframes](img/boceto5.png) | ![Wireframes](img/boceto6.png) 
-
-Item Information             | Item Location             | Item Chat
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto7.png)  |  ![Wireframes](img/boceto8.png) | ![Wireframes](img/boceto9.png) 
-
-Gastronomy             | Typical Food             | Activities and Events
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto10.png)  |  ![Wireframes](img/boceto11.png) | ![Wireframes](img/boceto12.png) 
-
-Item Contact              | Item Payment             | Item Considerations
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto13.png)  |  ![Wireframes](img/boceto14.png) | ![Wireframes](img/boceto15.png) 
-
-Plan Your Trip             | Default Tours            | Default Tour Example
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto16.png)  |  ![Wireframes](img/boceto17.png) | ![Wireframes](img/boceto18.png) 
-
-Customized Tours             | Create New Tour             | Customized Tour Example
-:-------------------------:|:-------------------------:|:-------------------------:
-![Wireframes](img/boceto19.png)  |  ![Wireframes](img/boceto20.png) | ![Wireframes](img/boceto21.png) 
-
-
-**Navegación App**
-
-![Labelling](img/navegacion_app.png)
+El boceto es básico pero ofrece una idea de lo que queremos hacer. Se mantendrán los
+colores de la página original, y en el calendario, cuando se pasa el cursor por encima de un
+evento, se mostrará a la derecha, tal y como se enseña en el boceto todos los datos de
+dicho evento (tales como nombre, fecha, breve descripción e imágenes relacionadas), en el
+caso de que no se seleccione ninguno se mostrará el próximo evento.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
