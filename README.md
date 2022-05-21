@@ -1,7 +1,7 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Turismo) 
 
-Grupo: DIU2_ML.  Curso: 2021/21 
+Grupo: DIU2_ML.  Curso: 2021/22
 
 Proyecto: 
 Carlota Braun
