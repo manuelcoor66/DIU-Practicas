@@ -306,4 +306,4 @@ El Layout Hi-Fi se peude descargar para su observación en el siguiente [documen
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Las prácticas se han subido en este documento, además de subirse la documentación junto con las imágenes y los PDF de cada práctica en las distintas carpetas de este repositorio.
+Las prácticas se han subido en este repositorio, donde, además se ha subido la documentación junto con las imágenes y los PDF de cada práctica en las distintas carpetas de este repositorio.
