@@ -56,7 +56,7 @@ sujeto para el Journey Map.
 La elección de esta persona como usuaria de un hostel es que es una persona con un
 carácter que se encuentra entre extrovertida e introvertida, pero que le gustaría mejorar ser un poco más extrovertida, por lo que ambientes como los de sitios así le ayudan mucho a la hora de poder conseguirlo. Además, al ser una persona bastante práctica, es la persona perfecta para elegir un hostel dentro de las distintas posibilidades existentes para ella, ya que es el que tiene las mejores características para lo que ella se puede permitir.
 
-<img src="P1/Persona Ficticia 2.png">
+<img src="P1/Persona Ficticia 2.jpeg">
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
