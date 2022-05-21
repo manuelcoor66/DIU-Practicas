@@ -283,11 +283,15 @@ Logotipo fondo claro
 Logotipo fondo oscuro
 <img src="P3/Logotipo fondo oscuro.jpeg"> 
 
+
+
 ### Iconografía
 
 Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de uso libre y tienen un diseño y estilo que creemos que encaja muy bien con el estilo y la personalidad que le queremos dar a la web. Entre estos iconos encontramos los siguientes, los de calendario, carta, o volver; que se pueden observar a continuación.
 
 <img src="P3/Icono Calendario.jpeg"> <img src="P3/Icono Carta.jpeg"> <img src="P3/Icono Volver.jpeg">
+
+El logo del fondo blanco lo vamos a usar para la página con tema claro, mientras que el logo con el fondo negro va a ser usado para la página con el tema negro.
 
 
 
