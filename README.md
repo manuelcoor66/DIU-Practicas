@@ -1,5 +1,5 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel) 
 
 Grupo: DIU2_ML.  Curso: 2021/22
 
