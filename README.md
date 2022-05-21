@@ -274,29 +274,35 @@ Hemos elegido [Inknut Antiqua][enlace1] para los títulos y [Caveat][enlace2] pa
 
 Hemos rediseñado el logotipo de la página del hostel, orientándose a la zona de dicho hostel en la que nos hemos centrado, es decir, a la zona de restauración. Para ello hemos hecho un logotipo base, sin fondo, del cuál salen los dos que vamos a usar, siendo la única diferencia entre ambos el color del fondo de dicho logotipo.
 
-<img src="P3/Logotipo sin fondo.jpeg"> 
 Logotipo sin fondo
-<img src="P3/Logotipo fondo claro.jpeg"> 
+<img src="P3/Logotipo sin fondo.jpeg"> 
+
 Logotipo fondo claro
-<img src="P3/Logotipo fondo oscuro.jpeg"> 
+<img src="P3/Logotipo fondo claro.jpeg"> 
+
 Logotipo fondo oscuro
+<img src="P3/Logotipo fondo oscuro.jpeg"> 
 
 ### Iconografía
 
-Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de uso libre y tienen un diseño y estilo que creemos que encaja muy bien con el estilo y la personalidad que le queremos dar a la web
+Hemos decidido usar logos de la pagina https://ionic.io/ionicons ya que son de uso libre y tienen un diseño y estilo que creemos que encaja muy bien con el estilo y la personalidad que le queremos dar a la web. Entre estos iconos encontramos los siguientes, los de calendario, carta, o volver; que se pueden observar a continuación.
+
+<img src="P3/Icono Calendario.jpeg"> <img src="P3/Icono Carta.jpeg"> <img src="P3/Icono Volver.jpeg">
+
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+El Layout Hi-Fi se peude descargar para su observación en el siguiente [documento][Layout].
+
+[Layout]: https://github.com/manuelcoor66/DIU/blob/master/P3/Layout%20Hi-Fi.pie
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Las prácticas se han subido en este documento, además de subirse la documentación junto con las imágenes y los PDF de cada práctica en las distintas carpetas de este repositorio.
 
 
 ## Paso 4. Evaluación 
