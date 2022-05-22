@@ -230,8 +230,9 @@ En la imagen [Diseño Visual.png][enlace] se puede observar con más claridad es
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+<img src="P3/Landing Page.PNG">
 
->>> Plantear Landing Page 
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
