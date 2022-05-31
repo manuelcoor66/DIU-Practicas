@@ -220,9 +220,9 @@ caso de que no se seleccione ninguno se mostrará el próximo evento.
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-En la imagen [Diseño Visual.png][enlace] se puede observar con más claridad esta imagen.
+En la imagen [Diseño Visual.png][enlaceMoodboard] se puede observar con más claridad esta imagen.
 
-[enlace]: https://github.com/manuelcoor66/DIU/blob/master/P3/Diseño%20Visual.png
+[enlaceMoodboard]: https://github.com/manuelcoor66/DIU/blob/master/P3/Diseño%20Visual.png
 
 <img src="P3/Diseño Visual.png">
 
